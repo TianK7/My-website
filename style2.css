@@ -1,0 +1,40 @@
+html {
+  background: url("img/Header_Soccer.jpg") no-repeat center fixed;
+  background-size: cover;
+}
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  letter-spacing: 2px;
+  text-align: center;
+  color: rgb(141, 7, 58);
+  margin: 60px 100px 50px;
+  font-size: 50px;
+}
+body {
+  text-align: center;
+}
+
+div {
+  padding: 10px 100px 10px;
+  background-color: rgba(255, 255, 255, 0.493);
+  border-radius: 100px;
+  margin: 60px 100px 50px;
+}
+
+.nav a {
+  margin: 0px 25px;
+  color: grey;
+}
+h2 {
+  letter-spacing: 1px;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 30px;
+
+  border-radius: 10px;
+  font-size: 30px;
+}
+h3 {
+  margin-top: 10px;
+  margin-left: 10px;
+}
